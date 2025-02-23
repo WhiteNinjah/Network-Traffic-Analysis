@@ -34,3 +34,13 @@
    dns.qry.name contains ".onion"
    ip.src == 192.168.1.10
 
+Analyzed specific IPs and Ports:
+
+Source IP: 192.168.1.10
+Destination IP: 45.67.89.101
+Port: 80 (HTTP), 443 (HTTPS), 445 (SMB)
+
+Analyzed specific IPs and Ports:
+
+
+
