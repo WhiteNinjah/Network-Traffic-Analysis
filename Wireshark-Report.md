@@ -1,7 +1,7 @@
 # 📡 Wireshark Network Traffic Analysis Report
 
 **Date:** [Enter Date]  
-**Analyst:** [Your Name]  
+**Analyst:** [Julie Wolf]  
 **Investigation Scope:** [E.g., Suspicious Network Activity on Company X]  
 **Tools Used:** Wireshark, Suricata, Nmap  
 
