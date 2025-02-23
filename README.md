@@ -2,7 +2,6 @@
 Analyzing network packets for security threats using Wireshark &amp; Suricata
 
 ## 📡 Network Traffic Analysis
-
 This project analyzes network traffic to detect **cyber threats** using **Wireshark & Suricata**.
 
 🔗 **[Read Full Wireshark Report](Wireshark-Report.md)**  
@@ -18,7 +17,6 @@ This project analyzes network traffic to detect **cyber threats** using **Wiresh
 ✅ HTTP plaintext traffic leakage  
 ✅ Potential Port Scan Attack  
 
----
 
 
 ---
