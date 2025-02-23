@@ -42,5 +42,7 @@ Port: 80 (HTTP), 443 (HTTPS), 445 (SMB)
 
 Analyzed specific IPs and Ports:
 
-
+## Screenshots of Wireshark Analysis
+📌 Upload screenshots of packet captures! (e.g., suspicious DNS requests, HTTP traffic).
+📌 Example: ##
 
